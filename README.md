@@ -10,8 +10,6 @@ Project find sum of 2 numbers via SOAP
 
 Date: 16/03/2017
 
-Screen capture: /screen_capture/lab01
-
 Execute:
 
 Run: src/Server.class
